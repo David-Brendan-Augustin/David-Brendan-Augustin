@@ -26,7 +26,6 @@ I hope to release my own comercial game in the future and maybe even start a 3D 
 In UGA I participate in a variety of clubs and student organizations:
 * TheHackPack, a cybersecurity-focused student organization centered on CTF / cybersecurity competitions, hands-on security labs, 
   and collaborative learning in areas like network security, cryptography, reverse engineering, and more.
-* Dev Dogs, a student-run club at UGA dedicated to benefiting the local community through code.
 * Game Builders Club, a student organization dedicated to helping students learn all there is to know about video game design.
 
 ## Skills 🏗️
