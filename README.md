@@ -54,7 +54,7 @@ In UGA I participate in a variety of clubs and student organizations:
 ![Static Badge](https://img.shields.io/badge/Github-darkgreen?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine)
 
-### Links (Portfolio & Resume In Progress)
+### Links
 [![Static Badge](https://img.shields.io/badge/Portfolio-red?style=for-the-badge)](https://davidaugustin.dev)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/david-augustin-78907934a/)
 [![Static Badge](https://img.shields.io/badge/GMAIL-orange?style=for-the-badge&logo=gmail)](mailto:davidaugustinwork@gmail.com)
