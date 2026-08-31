@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 # Welcome! 👋
 
 ## About Me 🔐
-📟 Hi, I’m David Brendan Augustin, a B.S. Computer Science student at the University of Georgia. 
-I’m currently pursuing a strong foundation in software development while planning to complete a certificate in cybersecurity & privacy. 
-Right now my current project is a full-stack Wordle clone to strengthen my backend architecture, API design, and frontend integration skills.
+📟 Hi, I'm David Brendan Augustin, a B.S. Computer Science student at the University of Georgia. I'm currently planning to complete a certificate in cybersecurity & privacy. Right now my current project is an automated, LLM-powered firmware analysis pipeline that surfaces candidate zero-day vulnerabilities for human review, combining static and dynamic analysis with LLM-driven triage.
 
 🎮 Besides my academic pursuits, I also enjoy learning new skills such as 3D modelling and game development.
 I hope to release my own comercial game in the future and maybe even start a 3D printing buissness. 
@@ -24,9 +22,8 @@ I hope to release my own comercial game in the future and maybe even start a 3D 
 
 ## My Involvment 🏫
 In UGA I participate in a variety of clubs and student organizations:
-* TheHackPack, a cybersecurity-focused student organization centered on CTF / cybersecurity competitions, hands-on security labs, 
-  and collaborative learning in areas like network security, cryptography, reverse engineering, and more.
-* Game Builders Club, a student organization dedicated to helping students learn all there is to know about video game design.
+- **TheHackPack** — Event Coordinator Officer. I identify and register the club for regional and national cybersecurity competitions (CTFs, NCL, etc.), coordinating team formation and logistics. I've competed in NCAE (28/30 flags, 4th place), Hack The Madness (8th place), and placed top 500 nationally in the NCL individual competition.
+- **Game Builders Club** — Projects Officer. I lead game development teams by organizing members into project groups and appointing team leads to guide builds from concept to completion, and oversee the club's core game development activity from start to finish. I've also collaborated with members on a Unity game prototype, building 3D assets in Blender and helping implement core gameplay systems.
 
 ## Skills 🏗️
 ### Languages
